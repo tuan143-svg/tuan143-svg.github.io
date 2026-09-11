@@ -2,7 +2,7 @@
 title: Hồ sơ nhập ngành
 ---
 
-# Nguyễn Văn An
+# Nguyễn Đinh Anh Tuấn
 
 <!-- ========= PHẦN TÓM TẮT — bốn dòng, người đọc thấy trong sáu giây đầu =========
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
@@ -14,7 +14,7 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-…@… · <https://…github.io>
+…@… · <https:tuan143-svg.github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
 
