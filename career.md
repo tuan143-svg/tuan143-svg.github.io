@@ -52,9 +52,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Dữ liệu vị trí này hiện tại chỉ được dùng trong nội bộ để tối ưu hóa trải nghiệm ứng dụng chứ chưa chia sẻ cho bên thứ ba. Nếu lùi lịch phát hành ngày mai để làm lại chính sách thì sẽ ảnh hưởng nghiêm trọng đến doanh thu và chiến dịch marketing đã lên lịch. Công ty hoàn toàn có thể lách luật tạm thời và bổ sung chính sách này vào bản cập nhật của tháng sau.
+- Phía người dùng lập luận rằng: Vị trí địa lý là thông tin cá nhân vô cùng nhạy cảm. Người dùng có quyền tối thượng trong việc được biết chính xác ứng dụng thu thập gì từ thiết bị của họ và phải được quyền từ chối. Việc thu thập âm thầm là hành vi lừa dối, xâm phạm nghiêm trọng đến quyền riêng tư.
+- **Quyết định của tôi**, và vì sao: Tôi quyết định không đưa đoạn code thu thập vị trí này vào bản cập nhật ngày mai, đồng thời báo cáo với quản lý cấp cao để xin lùi lịch phát hành nhằm cập nhật giao diện xin phép người dùng. Vì sao: Sự minh bạch và niềm tin của người là vô cùng quan trọng, Là một kỹ sư phần mềm, việc thỏa hiệp với hành vi thu thập dữ liệu lén lút vi phạm trực tiếp đạo đức nghề nghiệp. Đánh đổi quyền riêng tư của khách hàng lấy tiến độ ngắn hạn có thể gây ra khủng hoảng truyền thông và rủi ro pháp lý nặng nề cho công ty sau này.
 
 ## Ba việc tôi làm trong học kỳ này
 
