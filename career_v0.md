@@ -19,10 +19,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan. | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
+| Kiến thức | Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan. Có kiến thức nền tảng về mạng máy tính (TCP/UDP) | … | … | chưa / một phần / rồi |
+| Kỹ năng | Nắm vững C/C++ (OOP, STL). Hiểu cơ bản về cơ chế Linux: process, thread, socket, IPC. Biết sử dụng Git, CMake/Makefile, GDB.| … | … | … |
 | Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Công cụ | Git, CMake/Makefile, GDB. C/C++ (OOP, STL). | … | … | … |
 
 ## Ba tin tuyển dụng
 
