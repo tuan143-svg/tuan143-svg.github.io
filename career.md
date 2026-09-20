@@ -20,7 +20,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan. Có kiến thức nền tảng về mạng máy tính (TCP/UDP) | Nền tảng học vấn tốt từ công nghệ thông tin. Nắm vững kiến trúc phần mềm (Clean Architecture, Onion Architecture, Microservices), các nguyên lý thiết kế SOLID, và các Design Patterns thông dụng.  | Tốt nghiệp Cao đẳng/Đại học chuyên ngành CNTT, Khoa học máy tính, Kỹ thuật phần mềm hoặc lĩnh vực liên quan | chưa |
-| Kỹ năng | Nắm vững C/C++ (OOP, STL). Hiểu cơ bản về cơ chế Linux: process, thread, socket, IPC. Biết sử dụng Git, CMake/Makefile, GDB. Khả năng đọc hiểu tài liệu kỹ thuật chuyên ngành bằng tiếng Anh.| Có kinh nghiệm làm việc tốt với RDBMS (SQL Server, PostgreSQL hoặc MySQL) và Entity Framework Core. Biết tối ưu Index, Query Execution Plan là một lợi thế. Có hiểu biết về NoSQL (MongoDB, Redis) là điểm cộng lớn. Kỹ năng làm việc nhóm tốt, có tinh thần trách nhiệm cao và chủ động trong công việc.Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh tốt.| Có từ 01 năm kinh nghiệm phát triển phần mềm Fullstack hoặc vị trí tương đương. Thành thạo Git, Thành thạo kỹ năng lập trình web cơ bản và quản lý mã nguồn bằng Git.; có tư duy tốt về cấu trúc source code, debugging và giải quyết vấn đề. Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.| chưa |
+| Kỹ năng | Nắm vững C/C++ (OOP, STL). Hiểu cơ bản về cơ chế Linux: process, thread, socket, IPC. Biết sử dụng Git, CMake/Makefile, GDB. Kỹ năng đọc hiểu tài liệu tiếng Anh chuyên ngành tốt.| Có kinh nghiệm làm việc tốt với RDBMS (SQL Server, PostgreSQL hoặc MySQL) và Entity Framework Core. Biết tối ưu Index, Query Execution Plan là một lợi thế. Có hiểu biết về NoSQL (MongoDB, Redis) là điểm cộng lớn. Kỹ năng làm việc nhóm tốt, có tinh thần trách nhiệm cao và chủ động trong công việc.Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh tốt.| Có từ 01 năm kinh nghiệm phát triển phần mềm Fullstack hoặc vị trí tương đương. Thành thạo Git, Thành thạo kỹ năng lập trình web cơ bản và quản lý mã nguồn bằng Git.; có tư duy tốt về cấu trúc source code, debugging và giải quyết vấn đề. Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.| chưa |
 | Thái độ | … | … | … | … |
 | Công cụ | Git, CMake/Makefile, GDB. C/C++ (OOP, STL). |Git,Gitflow. Có kinh nghiệm làm việc với Docker/Containerization. | Docker, Linux Server, CI/CD | chưa |
 
@@ -45,8 +45,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 **Chỗ thứ hai**
 
 - AI viết: Yêu cầu chứng chỉ tiếng Anh B2 hoặc TOEIC 700+ cho vị trí Lập trình nhúng
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- Tin tuyển dụng thật ra viết: Khả năng đọc hiểu tài liệu kỹ thuật chuyên ngành bằng tiếng Anh.
+- Tôi sửa thành: Kỹ năng đọc hiểu tài liệu tiếng Anh chuyên ngành tốt.
 
 ## Một quyết định đạo đức
 
