@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | CÔNG TY TNHH CÔNG NGHỆ BLUEOC | Kỹ Sư Lập Trình Nhúng C/C++ | https://www.topcv.vn/viec-lam/ky-su-lap-trinh-nhung-c-c/2297755.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 13/9/2026 |
+| 2 | Công ty Cổ phần BiboMart TM | NET Backend Developer | https://www.topcv.vn/viec-lam/net-backend-developer/2299067.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 15/9/2026 |
+| 3 | CÔNG TY CỔ PHẦN VIBOTICS | Fullstack Developer | https://www.topcv.vn/viec-lam/fullstack-developer/2300787.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 15/9/2026 
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
