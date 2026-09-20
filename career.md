@@ -58,9 +58,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Hoàn thành ít nhất 30 bài tập lập trình mức độ Dễ/Trung bình trên nền tảng LeetCode
+2. Rèn luyện khả năng đọc nói hiểu tiếng anh và học từ vựng tiếng Anh chuyên ngành
+3. Tạo 1 trang github chuyên nghiệp, đầy đủ thông tin và đủ các phần của học kỳ
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -68,9 +68,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Đặt câu hỏi cung cấp bối cảnh rõ ràng cho AI, cung cấp nguyên văn nội dung tin tuyển dụng để nhờ AI phân tích rút trích kỹ năng. |
+| **Hoài** | Không tin tưởng hoàn toàn vào AI, so sánh bảng năng lực AI tạo ra với đường dẫn gốc của tin tuyển dụng để tìm ra những yêu cầu mà AI tự bịa ra. |
+| **Học** | Học được cách định dạng bảng Markdown |
+| **Hành** | Tự chọn lọc ý tưởng, viết lại theo sũy nghĩ của bản thân, sửa các thông tin sai lệch và đưa vào file career.html hoàn chỉnh. |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: Gemini
