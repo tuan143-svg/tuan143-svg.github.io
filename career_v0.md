@@ -22,7 +22,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Kiến thức | Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan. Có kiến thức nền tảng về mạng máy tính (TCP/UDP) | Nền tảng học vấn tốt từ công nghệ thông tin | Tốt nghiệp Cao đẳng/Đại học chuyên ngành CNTT, Khoa học máy tính, Kỹ thuật phần mềm hoặc lĩnh vực liên quan | chưa |
 | Kỹ năng | Nắm vững C/C++ (OOP, STL). Hiểu cơ bản về cơ chế Linux: process, thread, socket, IPC. Biết sử dụng Git, CMake/Makefile, GDB.| Nắm vững kiến trúc phần mềm (Clean Architecture, Onion Architecture, Microservices), các nguyên lý thiết kế SOLID, và các Design Patterns thông dụng. Có kinh nghiệm làm việc tốt với RDBMS (SQL Server, PostgreSQL hoặc MySQL) và Entity Framework Core. Biết tối ưu Index, Query Execution Plan là một lợi thế. Có hiểu biết về NoSQL (MongoDB, Redis) là điểm cộng lớn. Kỹ năng làm việc nhóm tốt, có tinh thần trách nhiệm cao và chủ động trong công việc.Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh tốt.| Có từ 01 năm kinh nghiệm phát triển phần mềm Fullstack hoặc vị trí tương đương. Thành thạo Git; có tư duy tốt về cấu trúc source code, debugging và giải quyết vấn đề. Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.| chưa |
 | Thái độ | … | … | … | … |
-| Công cụ | Git, CMake/Makefile, GDB. C/C++ (OOP, STL). |Git,Gitflow. Có kinh nghiệm làm việc với Docker/Containerization. | Docker, Linux Server, CI/CD | … |
+| Công cụ | Git, CMake/Makefile, GDB. C/C++ (OOP, STL). |Git,Gitflow. Có kinh nghiệm làm việc với Docker/Containerization. | Docker, Linux Server, CI/CD | chưa |
 
 ## Ba tin tuyển dụng
 
