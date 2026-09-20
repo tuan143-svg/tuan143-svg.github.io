@@ -28,7 +28,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
+| 1 | CÔNG TY TNHH CÔNG NGHỆ BLUEOC | Kỹ Sư Lập Trình Nhúng C/C++ | https://www.topcv.vn/viec-lam/ky-su-lap-trinh-nhung-c-c/2297755.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 13/9/2026 |
 | 2 | … | … | … | …/…/… |
 | 3 | … | … | … | …/…/… |
 
