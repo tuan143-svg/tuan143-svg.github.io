@@ -11,7 +11,7 @@ title: Chân dung nghề của tôi
 
 
 
-Vì sao: …
+Vì sao: Công việc này cho phép tôi sử dụng thuật toán và mã nguồn để xây dựng các giải pháp thực tế, biến những ý tưởng trừu tượng thành sản phẩm cụ thể. 
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
