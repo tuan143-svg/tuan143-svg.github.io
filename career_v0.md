@@ -68,9 +68,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | Đặt câu hỏi |
-| **Hoài** | Không tin tưởng hoàn toàn vào AI |
-| **Học** | Học được cách định dạng bảng Markdown |
-| **Hành** | Tự chọn lọc ý tưởng |
+| **Hỏi** | … |
+| **Hoài** | … |
+| **Học** | … |
+| **Hành** | … |
 
 Công cụ đã dùng: …
