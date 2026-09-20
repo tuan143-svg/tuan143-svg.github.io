@@ -58,9 +58,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Hoàn thành các bài tập lập trình mức độ dễ
+2. Học vựng tiếng Anh
+3. Tạo 1 trang github đầy đủ 6 phần
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -68,9 +68,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Đặt câu hỏi |
+| **Hoài** | Không tin tưởng hoàn toàn vào AI |
+| **Học** | Học được cách định dạng bảng Markdown |
+| **Hành** | Tự chọn lọc ý tưởng |
 
 Công cụ đã dùng: …
