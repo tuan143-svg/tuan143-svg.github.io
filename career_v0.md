@@ -19,18 +19,18 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan. Có kiến thức nền tảng về mạng máy tính (TCP/UDP) | … | … | chưa / một phần / rồi |
-| Kỹ năng | Nắm vững C/C++ (OOP, STL). Hiểu cơ bản về cơ chế Linux: process, thread, socket, IPC. Biết sử dụng Git, CMake/Makefile, GDB.| … | … | … |
+| Kiến thức | Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan. Có kiến thức nền tảng về mạng máy tính (TCP/UDP) | Nền tảng học vấn tốt từ công nghệ thông tin | Tốt nghiệp Cao đẳng/Đại học chuyên ngành CNTT, Khoa học máy tính, Kỹ thuật phần mềm hoặc lĩnh vực liên quan | chưa |
+| Kỹ năng | Nắm vững C/C++ (OOP, STL). Hiểu cơ bản về cơ chế Linux: process, thread, socket, IPC. Biết sử dụng Git, CMake/Makefile, GDB.| Nắm vững kiến trúc phần mềm (Clean Architecture, Onion Architecture, Microservices), các nguyên lý thiết kế SOLID, và các Design Patterns thông dụng. Có kinh nghiệm làm việc tốt với RDBMS (SQL Server, PostgreSQL hoặc MySQL) và Entity Framework Core. Biết tối ưu Index, Query Execution Plan là một lợi thế. Có hiểu biết về NoSQL (MongoDB, Redis) là điểm cộng lớn. Kỹ năng làm việc nhóm tốt, có tinh thần trách nhiệm cao và chủ động trong công việc.Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh tốt.| Có từ 01 năm kinh nghiệm phát triển phần mềm Fullstack hoặc vị trí tương đương. Thành thạo Git; có tư duy tốt về cấu trúc source code, debugging và giải quyết vấn đề. Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.| chưa |
 | Thái độ | … | … | … | … |
-| Công cụ | Git, CMake/Makefile, GDB. C/C++ (OOP, STL). | … | … | … |
+| Công cụ | Git, CMake/Makefile, GDB. C/C++ (OOP, STL). | Thành thạo Git, hiểu quy trình Gitflow. Có kinh nghiệm làm việc với Docker/Containerization; Hiểu biết hoặc từng làm việc trong môi trường Linux/WSL là lợi thế. | Docker, Linux Server, CI/CD | … |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
 | 1 | CÔNG TY TNHH CÔNG NGHỆ BLUEOC | Kỹ Sư Lập Trình Nhúng C/C++ | https://www.topcv.vn/viec-lam/ky-su-lap-trinh-nhung-c-c/2297755.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 13/9/2026 |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 2 | Công ty Cổ phần BiboMart TM | NET Backend Developer | https://www.topcv.vn/viec-lam/net-backend-developer/2299067.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 15/9/2026 |
+| 3 | CÔNG TY CỔ PHẦN VIBOTICS | Fullstack Developer | https://www.topcv.vn/viec-lam/fullstack-developer/2300787.html?ta_source=JobSearchList_LinkDetail&u_sr_id=YbkNPBiluwLFgQNed89n2zJJ7AuVoeVzhohrbF0k_1789889804 | 15/9/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
