@@ -19,7 +19,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
+| Kiến thức | Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan. | … | … | chưa / một phần / rồi |
 | Kỹ năng | … | … | … | … |
 | Thái độ | … | … | … | … |
 | Công cụ | … | … | … | … |
