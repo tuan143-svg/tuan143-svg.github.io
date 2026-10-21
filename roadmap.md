@@ -4,12 +4,13 @@ title: Bản đồ học tập bốn năm
 
 # Bản đồ học tập bốn năm
 
-> **Bài 2 · Xoá dòng này khi nộp.**
+
 > Tự xếp trước bằng tay, chưa mở AI. Xếp xong mới đưa cho nó phản biện.
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
+Mục tiêu nghề nghiệp: Kỹ sư Phần mềm / Software Engineer
+
 
 ## Tám học kỳ
 
@@ -17,6 +18,12 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
+| 1 | … | … | … |
+| 1 | … | … | … |
+| 2 | … | … | … |
+| 1 | … | … | … |
+| 1 | … | … | … |
+| 2 | … | … | … |
 | 1 | … | … | … |
 | 1 | … | … | … |
 | 2 | … | … | … |
@@ -42,12 +49,12 @@ title: Bản đồ học tập bốn năm
 | 7 | … | … | … |
 | 8 | … | … | … |
 
-**Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
+**Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
+- Kỳ nặng nhất là kỳ 3 và Kỳ 4, vì Đây là thời điểm học các môn nền tảng quan trọng nhất của Kỹ sư Phần mềm
 - Môn … phải học trước môn … vì …
 - Kỳ … tôi để nhẹ vì …
 
