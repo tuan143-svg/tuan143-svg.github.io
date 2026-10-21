@@ -7,7 +7,7 @@ title: Cẩm nang làm việc nhóm
 > **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
 > nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:** Little boy · **Thành viên:** 4
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
