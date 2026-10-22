@@ -10,7 +10,7 @@ title: Bản đồ học tập bốn năm
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
 Mục tiêu nghề nghiệp: Kỹ sư Phần mềm / Software Engineer
-
+Xây dựng nền tảng vững chắc về Khoa học Máy tính (Toán, Cấu trúc dữ liệu và Hệ điều hành), sau đó đi sâu vào các môn chuyên ngành về Machine Learning, Deep Learning và Xử lý dữ liệu lớn.
 
 ## Tám học kỳ
 
