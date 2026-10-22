@@ -11,7 +11,7 @@ title: Nhìn lại học kỳ
 
 Đọc lại trang Bài 1 rồi trả lời: điều gì tôi tin hồi đó mà giờ không còn tin nữa?
 
-…
+Đọc lại trang Bài 1, điều tôi từng tin hồi đó nhưng giờ không còn tin nữa là: “Chỉ cần viết prompt hay thì AI sẽ gánh phần lớn khối lượng công việc, nhóm chỉ việc lắp ghép lại là xong đồ án.”
 
 ## Trang tôi làm tốt nhất
 
