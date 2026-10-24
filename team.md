@@ -7,7 +7,7 @@ title: Cẩm nang làm việc nhóm
 > **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
 > nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:** Little boy · **Thành viên:** 4
+**Nhóm:** Little boy · **Thành viên:** Nguyễn Đinh Anh Tuấn, Phan Ngọc Phong, Lê Hồng Đức, Phạm Tố Điền
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
