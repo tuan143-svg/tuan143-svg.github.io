@@ -29,7 +29,7 @@ Xây dựng nền tảng vững chắc về Khoa học Máy tính (Toán, Cấu 
 | 2 | ENC121 | Anh ngữ 2 | 3 |
 | 2 | MAT104 | Toán rời rạc | 3 |
 | 2 | SKL115 | Tư duy thiết kế dự án | 3 |
-| 2 | CMP164 | Kỹ thuật lập trình | 3 |**Môn này cho em nền tảng tư duy cấu trúc code C++.** |
+| 2 | CMP164 | Kỹ thuật lập trình | 3 |
 | 2 | CMP365 | Thực hành kỹ thuật lập trình | 1 |
 | 2 | COS135 | Nhập môn cơ sở dữ liệu | 3 |
 | 2 | COS323 | Thực hành cơ sở dữ liệu | 1 |
