@@ -15,26 +15,23 @@ title: Nhìn lại học kỳ
 
 ## Trang tôi làm tốt nhất
 
-…, vì …
+Trang Nhật ký AI (`ai-log.md`) là trang tôi làm tốt nhất, vì đây là nơi tôi tổng hợp toàn bộ trải nghiệm thực tế trong suốt học kỳ.
 
 ## Trang tôi làm cho xong
 
 Viết thật. Bài nào cũng có một trang như vậy.
 
-…, vì …
+Cẩm nang của nhóm tôi là trang tôi làm cho xong, vì thời điểm đó bản thân không giỏ lam việc nhóm cũng như nhóm phối hợp không được ăn ý và đối mặt với áp lực thời gian dồn dập. Tôi đã thực hiện bài viết này theo cách đối phó, chỉ đáp ứng vừa đủ cấu trúc tối thiểu để hoàn thành thời hạn nộp bài mà chưa kịp đào sâu phân tích cũng như chăm chút cho nội dung.
+
 
 ## Nếu có thêm hai tuần
 
-Tôi sẽ viết lại trang …, theo cách …
+Tôi sẽ viết lại trang Cẩm nang của nhóm tôi, theo cách nghiên cứu lại toàn bộ tài liệu tham khảo, bổ sung thêm các ví dụ thực tế cụ thể và đào sâu phân tích nguyên nhân - kết quả thay vì chỉ dừng lại ở mức liệt kê ý tưởng sơ khai.
 
 ## Ba điều tôi mang sang học kỳ sau
 
-1. …
-2. …
-3. …
+1. **Kỹ năng đặt câu hỏi có bối cảnh:** Luôn phân vai, nêu rõ mục đích và đối tượng người nghe cho AI trước khi xin gợi ý.
+2. **Thói quen hoài nghi khoa học:** Không bao giờ tin ngay thông tin AI đưa ra mà luôn tra cứu, đối chiếu lại với tài liệu uy tín.
+3. **Kỹ năng quản lý thời gian:** Chia nhỏ bài tập lớn thành từng việc hàng ngày để không bị rơi vào tình trạng làm vội cho xong.
 
-## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: …
-
-Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
