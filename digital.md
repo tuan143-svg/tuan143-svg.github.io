@@ -45,11 +45,21 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 7. **Hỏi mã OTP hoặc mật khẩu:** Cuộc gọi giả làm nhân viên ngân hàng yêu cầu đọc mã OTP gửi về điện thoại *(Mẫu lừa đảo chiếm đoạt tài khoản ngân hàng)*.
 
 
+
+## Cam kết bốn tuần: Nâng cao năng lực số
+
+| Mốc thời gian | Nhóm năng lực nâng | Việc cụ thể sẽ làm |
+|---|---|---|
+| **Tuần 1** (01/11 - 07/11) | **Nhóm 5:** An ninh mạng | Chuyển các bài viết cũ trên Facebook về chế độ Bè bạn; đặt lại mật khẩu mạnh cho Email sinh viên. |
+| **Tuần 2** (08/11 - 14/11) | **Nhóm 2:** Thông tin & Dữ liệu | Sắp xếp lại thư mục bài tập các môn học trên Google Drive gọn gàng, khoa học. |
+| **Tuần 3** (15/11 - 21/11) | **Nhóm 7:** Năng lực nghề nghiệp | Tập sử dụng các ngôn ngữ lập trình như C++, java. |
+| **Tuần 4** (22/11 - 28/11) | **Nhóm 4:** Sáng tạo nội dung | Học sử dụng phần mềm Canva để thiết kế slide thuyết trình đẹp mắt hơn cho bài tập nhóm. |
+
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
-2. …
-3. …
+1. Chuyển toàn bộ các bài viết, ảnh cũ từ thời cấp 2 trên Facebook cá nhân về chế độ "Bè bạn" hoặc "Chỉ mình tôi".
+2. Gom gọn các file bài tập, slide môn học lộn xộn ở Desktop vào các thư mục theo từng môn rõ ràng trên Google Drive.
+3. Đổi mật khẩu Email sinh viên và tài khoản LMS sang chuỗi mật khẩu mạnh hơn, kèm bật bảo mật 2 lớp qua số điện thoại hoặc ứng dụng.
 
 ## Tôi đã làm việc với AI thế nào
 
@@ -57,7 +67,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Đặt câu hỏi nhờ AI đóng vai người kèm cặp, gợi ý câu hỏi để tôi tự đánh giá năng lực số của tân sinh viên. |
+| **Hoài** | Tự kiểm tra lại các lời khuyên của AI xem có thực sự dễ làm và phù hợp với sinh viên năm nhất hay không. |
+| **Học** | Học cách đặt mật khẩu an toàn và cách sắp xếp tài liệu học tập hiệu quả từ các câu hỏi gợi mở của AI. |
+| **Hành** | Tự kiểm tra quyền riêng tư các tài khoản cá nhân và tự viết hoàn thiện bài `digital.md`. |
