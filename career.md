@@ -5,7 +5,7 @@ title: Chân dung nghề của tôi
 # Chân dung nghề của tôi
 
 
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
+
 
 ## Tôi đang nhắm hướng kỹ sư phần mềm
 
