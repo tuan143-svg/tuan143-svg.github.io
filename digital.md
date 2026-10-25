@@ -50,10 +50,10 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | Mốc thời gian | Nhóm năng lực nâng | Việc cụ thể sẽ làm |
 |---|---|---|
-| **Tuần 1** (01/11 - 07/11) | **Nhóm 5:** An ninh mạng | Chuyển các bài viết cũ trên Facebook về chế độ Bè bạn; đặt lại mật khẩu mạnh cho Email sinh viên. |
-| **Tuần 2** (08/11 - 14/11) | **Nhóm 2:** Thông tin & Dữ liệu | Sắp xếp lại thư mục bài tập các môn học trên Google Drive gọn gàng, khoa học. |
-| **Tuần 3** (15/11 - 21/11) | **Nhóm 7:** Năng lực nghề nghiệp | Tập sử dụng các ngôn ngữ lập trình như C++, java. |
-| **Tuần 4** (22/11 - 28/11) | **Nhóm 4:** Sáng tạo nội dung | Học sử dụng phần mềm Canva để thiết kế slide thuyết trình đẹp mắt hơn cho bài tập nhóm. |
+| **Tuần 1** (01/10 - 07/10) | **Nhóm 5:** An ninh mạng | Chuyển các bài viết cũ trên Facebook về chế độ Bè bạn; đặt lại mật khẩu mạnh cho Email sinh viên. |
+| **Tuần 2** (08/10 - 14/10) | **Nhóm 2:** Thông tin & Dữ liệu | Sắp xếp lại thư mục bài tập các môn học trên Google Drive gọn gàng, khoa học. |
+| **Tuần 3** (15/10 - 21/10) | **Nhóm 7:** Năng lực nghề nghiệp | Tập sử dụng các ngôn ngữ lập trình như C++, java. |
+| **Tuần 4** (22/10 - 28/10) | **Nhóm 4:** Sáng tạo nội dung | Học sử dụng phần mềm Canva để thiết kế slide thuyết trình đẹp mắt hơn cho bài tập nhóm. |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
