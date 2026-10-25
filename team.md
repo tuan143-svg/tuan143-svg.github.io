@@ -4,8 +4,7 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-> **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
-> nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
+
 
 **Nhóm:** Little boy - Lớp 26DCSA1 · **Thành viên:** Nguyễn Đinh Anh Tuấn, Phan Ngọc Phong
 
