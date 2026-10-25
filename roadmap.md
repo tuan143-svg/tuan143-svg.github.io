@@ -103,7 +103,7 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 ## Vì sao tôi xếp như vậy
 
 - Kỳ nặng nhất là kỳ 4 và kỳ 5, vì đây là thời điểm tập trung nhiều môn cơ sở ngành trọng tâm kèm các bài thực hành chuyên sâu như Mạng máy tính, Quản trị CSDL, Trí tuệ nhân tạo và Điện toán đám mây.
-- Môn Môn Cơ sở lập trình phải học trước môn Kỹ thuật lập trình vì là điều kiện để học Lập trình hướng đối tượng cũng như Cấu trúc dữ liệu và giải thuật
+- Môn Cơ sở lập trình phải học trước môn Kỹ thuật lập trình vì là điều kiện để học Lập trình hướng đối tượng cũng như Cấu trúc dữ liệu và giải thuật
 - Kỳ 8 tôi để nhẹ vì đây là giai đoạn làm Thực tập tốt nghiệp và thực hiện Đồ án tốt nghiệp đòi hỏi dành tối đa thời gian tại doanh nghiệp và nghiên cứu hoàn thiện sản phẩm.
 
 ## Hai chỗ AI nói sai
@@ -127,4 +127,4 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 | **Hỏi** | Yêu cầu AI tạo khung chương trình học 8 học kỳ phân bổ đủ 150 tín chỉ cho ngành Khoa học máy tính HUTECH. |
 | **Hoài** | Nghi ngờ tính chính xác của dữ liệu AI trả về, đối chiếu tên môn học và mã môn học do AI gợi ý với chương trình đào tạo của trường. |
 | **Học** | Nhận ra AI có xu hướng bịa đặt tên môn học nghe có vẻ hợp lý nhưng không có trong chương trình đào tạo của trường và tự bịa mã môn. |
-| **Hành** | …Tự tay kiểm tra từng tín chỉ, loại bỏ học phần trùng không có trong trình đào tạo của trường. |
+| **Hành** | Tự tay kiểm tra từng tín chỉ, loại bỏ học phần trùng không có trong trình đào tạo của trường. |
