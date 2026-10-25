@@ -4,8 +4,7 @@ title: Nhìn lại học kỳ
 
 # Nhìn lại học kỳ
 
-> **Bài 6 · Xoá dòng này khi nộp.**
-> Trước khi viết, hãy mở lại năm trang trước và đọc một lượt từ đầu.
+
 
 ## Tôi đã thay đổi thế nào
 
