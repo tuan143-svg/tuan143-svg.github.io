@@ -5,7 +5,7 @@ title: Bản đồ học tập bốn năm
 # Bản đồ học tập bốn năm
 
 
-> Tự xếp trước bằng tay, chưa mở AI. Xếp xong mới đưa cho nó phản biện.
+
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
